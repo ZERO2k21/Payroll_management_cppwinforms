@@ -1,0 +1,5 @@
+C:\Users\chris\OneDrive\Desktop\Payroll\x64\Release\Payroll.vcxproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Payroll\x64\Release\Payroll.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Desktop\Payroll\x64\Release\Payroll.MyForm.resources
+C:\Users\chris\OneDrive\Desktop\Payroll\x64\Release\Payroll.vcxproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Payroll\x64\Release\Payroll.exe
